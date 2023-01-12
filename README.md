@@ -11,3 +11,5 @@ Mes debut en Java
 il existe deux types de modificateur:
 1: les modifiacateurs d'acces
 2: Les modifications de non-acces
+
+#6 l'encapsulation java
