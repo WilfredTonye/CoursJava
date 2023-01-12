@@ -1,3 +1,5 @@
+package Keyce;
+
 public class Etudiant {
     private int Id_Etudiant;
     private String nom;

@@ -13,3 +13,5 @@ il existe deux types de modificateur:
 2: Les modifications de non-acces
 
 #6 l'encapsulation java
+
+#7 le package java
